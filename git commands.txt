@@ -18,5 +18,3 @@ git log
 ---------------------------------
 ** to push your commits to the github repository:
 git push origin master
-
-by ahmed Sherif
